@@ -1,0 +1,21 @@
+D:\dekstop programming\menu restaurant\menu restaurant\bin\Debug\net6.0-windows\menu restaurant.exe
+D:\dekstop programming\menu restaurant\menu restaurant\bin\Debug\net6.0-windows\menu restaurant.deps.json
+D:\dekstop programming\menu restaurant\menu restaurant\bin\Debug\net6.0-windows\menu restaurant.runtimeconfig.json
+D:\dekstop programming\menu restaurant\menu restaurant\bin\Debug\net6.0-windows\menu restaurant.dll
+D:\dekstop programming\menu restaurant\menu restaurant\bin\Debug\net6.0-windows\menu restaurant.pdb
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu restaurant.csproj.AssemblyReference.cache
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu_restaurant.Form1.resources
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu restaurant.csproj.GenerateResource.cache
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu restaurant.AssemblyInfoInputs.cache
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu restaurant.AssemblyInfo.cs
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu restaurant.csproj.CoreCompileInputs.cache
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu restaurant.dll
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\refint\menu restaurant.dll
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu restaurant.pdb
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu restaurant.genruntimeconfig.cache
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\ref\menu restaurant.dll
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu_restaurant.akun.resources
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu_restaurant.Properties.Resources.resources
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu_restaurant.pesan.resources
+D:\dekstop programming\menu restaurant\menu restaurant\obj\Debug\net6.0-windows\menu_restaurant.menu.resources
